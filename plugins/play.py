@@ -11,11 +11,11 @@ from core import call, music_queue, app, assistant
 os.makedirs("downloads", exist_ok=True)
 SHRUTI_API_URL = "https://api01.shrutibots.site"
 SHRUTI_APIS = [
-    "ShrutiBotsAbzkMWaSg9TCI0PmEXxd",
-    "ShrutiBotsoTWkN0qlwZcms6FvHLyy",
-    "ShrutiBotsQ9wG0uYn5Yl2z1GR0KYp",
-    "ShrutiBotswSzTeacH4MwD8AKIa5OU",
-    "ShrutiBotsndmyermtmdsCzphHumwW",
+    "API",
+    "API",
+    "API",
+    "API",
+    "API",
 ]
 API_INDEX = 0
 CACHE_CHANNEL = -1004404949582
